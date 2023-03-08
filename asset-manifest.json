@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Artisan/static/css/main.073c9b0a.css",
+    "main.js": "/Artisan/static/js/main.a1a934d3.js",
+    "static/js/787.a152b2bf.chunk.js": "/Artisan/static/js/787.a152b2bf.chunk.js",
+    "static/media/logo.svg": "/Artisan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Artisan/index.html",
+    "main.073c9b0a.css.map": "/Artisan/static/css/main.073c9b0a.css.map",
+    "main.a1a934d3.js.map": "/Artisan/static/js/main.a1a934d3.js.map",
+    "787.a152b2bf.chunk.js.map": "/Artisan/static/js/787.a152b2bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a1a934d3.js"
+  ]
+}
